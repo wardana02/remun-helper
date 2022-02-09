@@ -1,0 +1,13 @@
+{
+    "name": "juliardi/remun-helper",
+    "authors": [
+        {
+            "name": "juliardi",
+            "email": "ardi93@gmail.com"
+        }
+    ],
+    "require": {
+      "m4tthumphrey/php-gitlab-api": "^9.13",
+      "php-http/guzzle6-adapter": "^1.0"
+    }
+}
